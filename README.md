@@ -1,5 +1,7 @@
-# file-base64 [![Build Status](https://travis-ci.org/forsigner/file-base64.svg?branch=master)]
-    
+# file-base64 [![Build Status](https://travis-ci.org/forsigner/file-base64.svg?branch=master)
+
+[![NPM Version][npm-image]][npm-url]
+
 - Encode a file to a base64 string
 - Dncode a base64 string to a file
 

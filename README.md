@@ -1,4 +1,4 @@
-# file-base64 [![Build Status](https://travis-ci.org/forsigner/file-base64.svg?branch=master)](https://travis-ci.org/forsigner/file-base64)
+# file-base64 [![Build Status](https://travis-ci.org/forsigner/file-base64.svg?branch=master)](https://travis-ci.org/forsigner/file-base64) [![NPM Version](http://img.shields.io/npm/v/file-base64.svg?style=flat)](https://www.npmjs.org/package/file-base64)
 
 - Encode a file to a base64 string
 - Dncode a base64 string to a file

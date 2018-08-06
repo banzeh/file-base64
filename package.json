@@ -1,21 +1,14 @@
 {
-  "name": "file-base64",
-  "version": "1.0.0",
+  "name": "promise-base64",
+  "version": "1.0.1",
   "description": "encode a file to base64 string or decode a base64 string to file.",
   "main": "index.js",
   "dependencies": {
     "into-stream": "^2.0.0"
   },
-  "devDependencies": {
-    "mocha": "^2.3.4",
-    "should": "^8.0.1"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forsigner/file-base64.git"
+    "url": "git+https://github.com/banzeh/file-base64-promise.git"
   },
   "keywords": [
     "file",
@@ -24,9 +17,12 @@
     "stream"
   ],
   "author": "forsigner",
+  "contributors": [
+    "Flavio Takeuchi <flavio@banzeh.com.br> (https://banzeh.com.br)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/forsigner/file-base64/issues"
+    "url": "https://github.com/banzeh/file-base64-promise/issues"
   },
-  "homepage": "https://github.com/forsigner/file-base64#readme"
+  "homepage": "https://github.com/banzeh/file-base64-promise"
 }

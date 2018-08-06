@@ -1,6 +1,6 @@
 {
   "name": "promise-base64",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "encode a file to base64 string or decode a base64 string to file.",
   "main": "index.js",
   "dependencies": {

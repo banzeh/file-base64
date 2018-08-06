@@ -36,12 +36,17 @@ const base64String = await base64.encode('./text.txt')
 
 ``` js
 var base64String = 'swesh523sfsfgwg';
-base64.decode(base64String, 'text.new.txt' function(err, output) {
-  console.log('success')
+base64.decode(base64String, 'text.new.txt')
+.then((base64String) => {
+    console.log(base64String)
+})
+.catch((err) => {
+    console.log(err)
 })
 ```
 
 Or using await
+
 ``` js
-await base64.encode('./text.txt')
+await base64.encode(base64String, './text.await.txt')
 ```
